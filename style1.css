@@ -1,0 +1,14 @@
+.page
+{
+	height: 800px;
+	width: 780px;
+	border: 5px solid red;
+	border-radius: 10px;
+	box-shadow: 2px 4px 3px black;
+	margin: auto;
+	padding: 2px;
+}
+.photo
+{
+	float: right;
+}
